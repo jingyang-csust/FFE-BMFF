@@ -3,8 +3,8 @@
 ### Installation
 Create and activate a conda environment:
 ```
-conda create -n bat python=3.7
-conda activate bat
+conda create -n xxx python=3.7
+conda activate xxx
 ```
 Install the required packages:
 ```
