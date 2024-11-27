@@ -7,7 +7,7 @@ Please cite our work if you think it is useful for your research.
   author={Zhang, Jianming and Yang, Jing and Liu, Zikang and Wang, Jin},
   journal={Neurocomputing},
   pages={128908},
-  year={2024},
+  year={2025},
   publisher={Elsevier}
 }
 ```
@@ -72,5 +72,5 @@ bash eval_rgbt.sh
 We refer you to use [LasHeR Toolkit](https://github.com/BUGPLEASEOUT/LasHeR) for LasHeR evaluation, 
 and refer you to use [MPR_MSR_Evaluation](https://sites.google.com/view/ahutracking001/) for RGBT234 evaluation.
 
-The project visualization video was published on:https://github.com/jingyang-csust/Demo_video_for_FFE-BMFF
+The project visualization videos are published on:https://github.com/jingyang-csust/Demo_video_for_FFE-BMFF
 
