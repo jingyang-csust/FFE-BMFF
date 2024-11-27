@@ -16,14 +16,13 @@ Download the training datasets, It should look like:
 ```
 $<PATH_of_Datasets>
     -- LasHeR/TrainingSet
-        |-- 1boygo
-        |-- 1handsth
         ...
-    -- VisEvent/train
-        |-- 00142_tank_outdoor2
-        |-- 00143_tank_outdoor2
+
+    -- RGBT234/TrainingSet
         ...
-        |-- trainlist.txt
+
+    -- RGBT210/TrainingSet
+        ...
 ```
 
 ### Path Setting
@@ -49,7 +48,7 @@ You can train models with various modalities and variants by modifying ```train_
 ### Testing
 
 #### For RGB-T benchmarks
-[LasHeR & RGBT234] \
+[LasHeR, RGBT210 & RGBT234] \
 Modify the <DATASET_PATH> and <SAVE_PATH> in```./RGBT_workspace/test_rgbt_mgpus.py```, then run:
 ```
 bash eval_rgbt.sh
