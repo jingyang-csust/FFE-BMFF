@@ -1,5 +1,6 @@
 ## Citation
 Please cite our work if you think it is useful for your research.
+### BibTeX
 ```
 @article{zhang2024rgbt,
   title={RGBT tracking via frequency-aware feature enhancement and unidirectional mixed attention},
@@ -9,6 +10,10 @@ Please cite our work if you think it is useful for your research.
   year={2024},
   publisher={Elsevier}
 }
+```
+### Word
+```
+Jianming Zhang, Jing Yang, Zikang Liu, Jin Wang. RGBT tracking via frequency-aware feature enhancement and unidirectional mixed attention. Neurocomputing, 2025, vol. 616, 128908. DOI: 10.1016/j.neucom.2024.128908.
 ```
 ## Usage
 ### Installation
