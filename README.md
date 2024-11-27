@@ -72,4 +72,5 @@ bash eval_rgbt.sh
 We refer you to use [LasHeR Toolkit](https://github.com/BUGPLEASEOUT/LasHeR) for LasHeR evaluation, 
 and refer you to use [MPR_MSR_Evaluation](https://sites.google.com/view/ahutracking001/) for RGBT234 evaluation.
 
+The project visualization video was published on:https://github.com/jingyang-csust/Demo_video_for_FFE-BMFF
 
