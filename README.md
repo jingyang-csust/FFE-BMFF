@@ -1,4 +1,15 @@
-
+## Citation
+Please cite our work if you think it is useful for your research.
+'''
+@article{zhang2024rgbt,
+  title={RGBT tracking via frequency-aware feature enhancement and unidirectional mixed attention},
+  author={Zhang, Jianming and Yang, Jing and Liu, Zikang and Wang, Jin},
+  journal={Neurocomputing},
+  pages={128908},
+  year={2024},
+  publisher={Elsevier}
+}
+'''
 ## Usage
 ### Installation
 Create and activate a conda environment:
