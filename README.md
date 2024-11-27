@@ -2,14 +2,16 @@
 Please cite our work if you think it is useful for your research.
 ### BibTeX
 ```
-@article{zhang2024rgbt,
-  title={RGBT tracking via frequency-aware feature enhancement and unidirectional mixed attention},
-  author={Zhang, Jianming and Yang, Jing and Liu, Zikang and Wang, Jin},
-  journal={Neurocomputing},
-  pages={128908},
-  year={2025},
-  publisher={Elsevier}
-}
+@article{ZHANG2025128908,
+title = {RGBT tracking via frequency-aware feature enhancement and unidirectional mixed attention},
+journal = {Neurocomputing},
+volume = {616},
+pages = {128908},
+year = {2025},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2024.128908},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231224016795},
+author = {Jianming Zhang and Jing Yang and Zikang Liu and Jin Wang}
 ```
 ### Word
 ```
