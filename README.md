@@ -64,7 +64,8 @@ bash train_bat.sh
 You can train models with various modalities and variants by modifying ```train_bat.sh```.
 
 ### Testing
-
+#### Model
+[Model](https://pan.baidu.com/s/138-V7ApR4WV1OyhkCHaCCQ?pwd=u5fq) (Baidu Driver: u5fq)
 #### For RGB-T benchmarks
 [LasHeR, RGBT210 & RGBT234] \
 Modify the <DATASET_PATH> and <SAVE_PATH> in```./RGBT_workspace/test_rgbt_mgpus.py```, then run:
