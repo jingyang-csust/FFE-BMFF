@@ -57,7 +57,7 @@ You can also modify paths by these two files:
 
 ### Training
 Dowmload the pretrained [foundation model](https://pan.baidu.com/s/1rgr-5VSCxhbMYhgwToJ-kg?pwd=nq8j) (OSTrack) (Baidu Driver: nq8j)
-and put it under ./pretrained/.
+and set path.
 ```
 bash train_bat.sh
 ```
